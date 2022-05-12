@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression
+****Multiple-Linear-Regression****
 
 Multiple linear regression refers to a statistical technique that is used to predict the outcome of a variable based on the value of two or more variables ( two or more independent variables and one dependent variable).
 
